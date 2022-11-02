@@ -1,0 +1,28 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+  color: #fff !important;
+}
+
+.home {
+  background-color: #2d2d3d;
+  width: 100vw;
+  height: 100vh;
+}
+
+.tittle {
+  color: #fff;
+  font-size: 2em;
+  text-align: center;
+  padding-top: 10%;
+}
+
+.boton {
+  margin-left: 20px;
+  background-color: #9c9ca4;
+}/*# sourceMappingURL=index.css.map */
